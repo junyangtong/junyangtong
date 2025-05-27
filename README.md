@@ -41,3 +41,11 @@ https://github.com/junyangtong/Toon_Island
 A puzzle game based on time and space transformation
 ![Frame 42](https://github.com/user-attachments/assets/8c43c527-ef47-4591-b643-7aaf256b762b)
 https://github.com/junyangtong/Puzzle-Game-Black-Island/tree/main
+
+# PBR Scene
+![Snipaste_2023-09-18_16-02-12](https://github.com/junyangtong/A_simple_scene_PBR/assets/135015047/6a48dc05-c28e-453f-b173-55d73b3dbcf5)
+https://github.com/junyangtong/A_simple_scene_PBR
+
+# MagmaScene
+![image](https://github.com/user-attachments/assets/a0a6fd51-a6c2-417a-949c-72ea02cd5447)
+https://github.com/junyangtong/MagmaScene/tree/main
