@@ -24,3 +24,20 @@ My name is **junyangtong**, I am a Technical Artist Engineer currently living in
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+<br><br>
+<br><br>
+<br><br>
+
+# Bartending Demo
+![image](https://github.com/user-attachments/assets/e31e09ef-ec5a-4059-bc19-58de8607cb45)
+https://github.com/junyangtong/JY_ToonProject
+
+# Toon Island Demo
+Water / Tod / Weather / Procedural Texture
+![20250527-160923](https://github.com/user-attachments/assets/5bf8feb6-0181-4158-98fc-e734fe79ef7c)
+https://github.com/junyangtong/Toon_Island
+
+# Black Island
+A puzzle game based on time and space transformation
+![Frame 42](https://github.com/user-attachments/assets/8c43c527-ef47-4591-b643-7aaf256b762b)
+https://github.com/junyangtong/Puzzle-Game-Black-Island/tree/main
