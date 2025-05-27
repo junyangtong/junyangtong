@@ -32,7 +32,7 @@ My name is **junyangtong**, I am a Technical Artist Engineer currently living in
 ![image](https://github.com/user-attachments/assets/e31e09ef-ec5a-4059-bc19-58de8607cb45)
 
 # Dynamic bone multithreading optimization [![Repo](https://img.shields.io/badge/View-Repo-blue)](https://github.com/junyangtong/JY_ToonProject)
-![bar2](https://github.com/user-attachments/assets/a7a007a4-f7e8-4a66-9687-6fe6d5aced66)
+![bar2](https://github.com/user-attachments/assets/b0893ff3-c86f-4a15-8e18-fddba02602cf)
 
 # Toon Island Demo [![Repo](https://img.shields.io/badge/View-Repo-blue)](https://github.com/junyangtong/Toon_Island)
 Water / Tod / Weather / Procedural Texture
