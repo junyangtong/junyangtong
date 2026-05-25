@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![zhihu](https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-1E90FF)](https://www.zhihu.com/people/shi-ba-ceng-lou-shang-de-hu-die/posts)
 
 
-My name is **junyangtong**, I am a Technical Artist Engineer currently living in Shanghai, China. I work in Unity game development using C# and HLSL to implement rendering effects and performance optimizations. I'm also learning Houdini, as well as C++ and DirectX 12. My long-term goal is to create an indie game that people will love. 🎮✨
+My name is **junyangtong**, I am a Technical Artist Engineer currently living in Shanghai, China.
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
