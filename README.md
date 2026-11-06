@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 
 My name is **junyangtong**, I am a Technical Artist Engineer currently living in Shanghai, China.
 
-<img align= "right" width= "250" src= "assets/typing-cat.gif"/>
-
-<br><br>
-<br><br>
-<br><br>
+<p align="right">
+  <img src="assets/typing-cat.gif" alt="Cat typing on a keyboard" width="77" height="120" />
+</p>
 
 # Bartending Demo [![Repo](https://img.shields.io/badge/View-Repo-blue)](https://github.com/junyangtong/JY_ToonProject)
 ![image](https://github.com/user-attachments/assets/e31e09ef-ec5a-4059-bc19-58de8607cb45)
