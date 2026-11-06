@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 My name is **junyangtong**, I am a Technical Artist Engineer currently living in Shanghai, China.
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "250" src= "assets/typing-cat.gif"/>
 
 <br><br>
 <br><br>
@@ -36,7 +36,7 @@ My name is **junyangtong**, I am a Technical Artist Engineer currently living in
 
 # Toon Island Demo [![Repo](https://img.shields.io/badge/View-Repo-blue)](https://github.com/junyangtong/Toon_Island)
 Water / Tod / Weather / Procedural Texture
-![20250527-160923](https://github.com/user-attachments/assets/5bf8feb6-0181-4158-98fc-e734fe79ef7c)
+<table><tr><td width="50%"><img src="https://github.com/user-attachments/assets/5bf8feb6-0181-4158-98fc-e734fe79ef7c" alt="Toon Island scene" width="100%" /></td><td width="50%"><img src="assets/toon-island-detail.png" alt="Toon Island wireframe detail" width="100%" /></td></tr></table>
 
 
 # Black Island [![Repo](https://img.shields.io/badge/View-Repo-blue)](https://github.com/junyangtong/Puzzle-Game-Black-Island/tree/main)
@@ -46,5 +46,4 @@ A puzzle game based on time and space transformation
 
 
 # MagmaScene [![Repo](https://img.shields.io/badge/View-Repo-blue)](https://github.com/junyangtong/MagmaScene/tree/main)
-![image](https://github.com/user-attachments/assets/a0a6fd51-a6c2-417a-949c-72ea02cd5447)
-
+<table><tr><td width="50%"><img src="https://github.com/user-attachments/assets/a0a6fd51-a6c2-417a-949c-72ea02cd5447" alt="Magma scene" width="100%" /></td><td width="50%"><img src="assets/magma-detail.png" alt="Magma scene detail" width="100%" /></td></tr></table>
